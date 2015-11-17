@@ -1,6 +1,6 @@
 Package.describe({
 	summary: 'A wrapper for node-irc, thats open source and up to date',
-	version: "1.0.0",
+	version: "0.4.0",
 	git: "https://github.com/rfox90/meteor-irc",
 	name: "ahref:irc"
 });
